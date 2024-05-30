@@ -1,4 +1,4 @@
 # Valentine
 Virtual Valentine - A simple page to display Valentine's Day wishes
 
-![Preview](https://github.com/DevDJpl/valentine/tree/main/images/preview.png)
+![Preview](https://raw.githubusercontent.com/DevDJpl/valentine/master/images/preview.png)
